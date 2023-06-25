@@ -15,7 +15,7 @@ This diagram shows the components of the system, the services they provide and t
 
 # GUI Screens - 
 <p>
-  <img width="49"% src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/81881ca9-1e08-4170-8b26-ea7586a4eb98"/>
+  <img width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/81881ca9-1e08-4170-8b26-ea7586a4eb98"/>
   <img width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/b16cae2a-fb25-4cfd-b818-9ce6da560bd0"/>
 </p>
 <p>
