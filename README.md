@@ -19,10 +19,10 @@ This diagram shows the components of the system, the services they provide and t
   <img width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/b16cae2a-fb25-4cfd-b818-9ce6da560bd0"/>
 </p>
 <p>
-  <img align="left" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/d74db7f3-c7d8-4882-a701-8ef49ed34e9d">
-  <img align="right" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/f4b5794a-402d-4be2-983f-87535e0be1a4">
+  <img align="left" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/d74db7f3-c7d8-4882-a701-8ef49ed34e9d"/>
+  <img align="right" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/f4b5794a-402d-4be2-983f-87535e0be1a4"/>
 </p>
 <p>
-  <img align="left" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/e3a60601-7e33-479c-9e3a-8e443d24b4e6">
-  <img align="right" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/317663f8-69dd-45cc-9150-90cf943adaea">
+  <img align="left" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/e3a60601-7e33-479c-9e3a-8e443d24b4e6"/>
+  <img align="right" width="49%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/317663f8-69dd-45cc-9150-90cf943adaea"/>
 </p>
