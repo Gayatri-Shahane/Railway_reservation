@@ -14,9 +14,10 @@ The aim of the project is to design and develop a database maintaining the recor
 This diagram shows the components of the system, the services they provide and the way they communicate to bring about the system functionality.
 
 # GUI Screens - 
-<p float="left">
-<img width="50%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/81881ca9-1e08-4170-8b26-ea7586a4eb98"/>
-<img width="50%" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/b16cae2a-fb25-4cfd-b818-9ce6da560bd0"/></p>
+<p>
+  <img width="250" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/81881ca9-1e08-4170-8b26-ea7586a4eb98"/>
+  <img width="250" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/b16cae2a-fb25-4cfd-b818-9ce6da560bd0"/>
+</p>
 <p>
 <img align="left" width="400" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/d74db7f3-c7d8-4882-a701-8ef49ed34e9d">
 <img align="right" width="400" src="https://github.com/Gayatri-Shahane/Railway_reservation/assets/88731432/f4b5794a-402d-4be2-983f-87535e0be1a4"><br></p>
